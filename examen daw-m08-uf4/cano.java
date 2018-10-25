@@ -92,4 +92,4 @@ public abstract class CosaMobil extends Cosa {
     public final double getVelocitat() {
         return velocitat;
     }
-}
+}asd
